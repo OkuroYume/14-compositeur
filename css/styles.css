@@ -17,7 +17,11 @@ h1, h2 {
   text-align: center;
 }
 
-a, hr {
+a {
   text-decoration: none;
+  color: white;
+}
+
+hr {
   color: #e8cf2c;
 }
