@@ -10,11 +10,13 @@ img {
 
 p {
   color: white;
+  font-family: lato;
 }
 
 h1, h2 {
   color: #e8cf2c;
   text-align: center;
+  font-family: 'Tilt Warp', cursive;
 }
 
 a {
