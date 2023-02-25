@@ -4,6 +4,9 @@ body {
   background: black;
 }
 
+header p {
+  font-size: 15px;
+}
 img {
   max-width: 100%;
 }
@@ -26,4 +29,12 @@ a {
 
 hr {
   color: #e8cf2c;
+}
+
+.yellow {
+  color: #e8cf2c;
+}
+
+.red {
+  color: #d70716;
 }
