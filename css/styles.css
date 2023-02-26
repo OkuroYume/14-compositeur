@@ -4,16 +4,54 @@ body {
   background: black;
 }
 
-header p {
-  font-size: 15px;
-}
 img {
   max-width: 100%;
 }
 
+header p {
+  font-size: 15px;
+  padding: 15px 0 30px 0;
+}
+
+header h1 {
+  font-size: 15px;
+}
+
+header nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px 0 40px 0;
+}
+
+main nav {
+  padding-left: 50px;
+}
+
+main img {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+
 p {
   color: white;
   font-family: lato;
+}
+
+.yellow {
+  color: #e8cf2c;
+}
+
+.red {
+  color: #d70716;
+}
+
+.titre {
+  padding: 0 0 80px 0;
 }
 
 h1, h2 {
@@ -31,10 +69,3 @@ hr {
   color: #e8cf2c;
 }
 
-.yellow {
-  color: #e8cf2c;
-}
-
-.red {
-  color: #d70716;
-}
