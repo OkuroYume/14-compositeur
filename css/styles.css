@@ -18,7 +18,9 @@ header p {
 }
 
 header h1 {
-  font-size: 15px;
+  font-size: 14px;
+  border:2px solid #e8cf2c;
+  padding: 5px;
 }
 
 header nav {
@@ -27,7 +29,7 @@ header nav {
   justify-content: space-between;
   padding: 30px 0 40px 0;
 }
-
+  
 main nav {
   padding-left: 50px;
 }
@@ -76,8 +78,3 @@ a {
   text-decoration: none;
   color: white;
 }
-
-hr {
-  color: #e8cf2c;
-}
-
